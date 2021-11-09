@@ -13,7 +13,7 @@ https://github.com/cagov/digital.ca.gov
 
 ## Referenced WordPress instances
 
-- https://live-odi-content-api.pantheonsite.io
+- https://live-digital-ca-gov.pantheonsite.io
 
 ## WordPress notification config target
 

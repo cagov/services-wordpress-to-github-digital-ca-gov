@@ -13,7 +13,7 @@
         "enabledLocal": false,
         "ReportingChannel_Slack": "C02G6PETB9B",
         "WordPressSource": {
-          "url": "https://live-odi-content-api.pantheonsite.io",
+          "url": "https://live-digital-ca-gov.pantheonsite.io",
           "tags_exclude": ["Preview-Mode"]
         },
         "GitHubTarget": {
