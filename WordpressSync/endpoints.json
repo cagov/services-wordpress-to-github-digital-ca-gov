@@ -10,7 +10,7 @@
         "name": "digital.ca.gov",
         "description": "digital.ca.gov website",
         "enabled": true,
-        "enabledLocal": false,
+        "enabledLocal": true,
         "ReportingChannel_Slack": "C02G6PETB9B",
         "WordPressSource": {
           "url": "https://live-digital-ca-gov.pantheonsite.io",
@@ -19,7 +19,7 @@
         "GitHubTarget": {
           "Owner": "cagov",
           "Repo": "digital.ca.gov",
-          "Branch": "main",
+          "Branch": "development",
           "ConfigPath": "wordpress/wordpress-to-github.config.json"
         }
       }
