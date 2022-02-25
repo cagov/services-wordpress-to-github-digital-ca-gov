@@ -13,7 +13,7 @@
         "enabledLocal": false,
         "ReportingChannel_Slack": "C02G6PETB9B",
         "WordPressSource": {
-          "url": "https://live-digital-ca-gov.pantheonsite.io",
+          "url": "https://test-digital-ca-gov.pantheonsite.io",
           "tags_exclude": ["Preview-Mode"]
         },
         "GitHubTarget": {
